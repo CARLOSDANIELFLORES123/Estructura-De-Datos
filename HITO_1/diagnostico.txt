@@ -1,0 +1,112 @@
+using System;
+					
+public class Program
+{
+	public void clase1(){
+		Console.WriteLine ("bienvenido a la materia estructura de datos");
+	}
+	public void clase2(){
+		int numa,numb,numc,Resultado;
+        numa = 10;
+        numb = 2;
+        numc = 3;
+        
+        Resultado = numa + numb + numc;
+        
+        Console.WriteLine(Resultado);
+	}
+	public void clase3(){
+		int numa,numb,numc,Resultado;
+        
+        numa = Convert.ToInt32(Console.ReadLine());
+        numb = Convert.ToInt32(Console.ReadLine());
+        numc = Convert.ToInt32(Console.ReadLine());
+        
+        Resultado = numa +numb + numc;
+        
+        Console.WriteLine(Resultado);
+	}
+	public void clase4(){
+		int numa;
+        numa = 0;
+        for (int i=0 ; i<=15;i=i+1){
+            
+           numa = i;
+            Console.WriteLine(numa);
+            
+        }
+	}
+	public void clase5(){
+		int numa,Resultado ;
+       
+        numa=0;
+        Console.WriteLine("ingrese un numero");
+       numa=Convert.ToInt32(Console.ReadLine());
+       for (int i =0; i<=numa ;i++){
+            if(i % 2 == 0 ){
+              Resultado = i;
+              Console.WriteLine(Resultado);
+              
+            }
+         
+            
+       }
+	}
+	public void clase6(){
+		int a,Resultado ;
+       
+        a=0;
+        Console.WriteLine("ingrese un numero");
+       a=Convert.ToInt32(Console.ReadLine());
+       for (int i =0; i<=a ;i++){
+            if(i % 2 != 0 ){
+              Resultado = i;
+              Console.WriteLine(Resultado);
+              
+            }
+         
+            
+       }
+	}
+	
+	
+	
+	public static void Main()
+	{
+		Program clase = new Program();   
+		int a;
+      Console.WriteLine("Ingrese una clase");
+      a = Convert.ToInt32(Console.ReadLine());
+     
+		switch (a){
+          
+          
+          case 1:
+          clase.clase1();
+          break;
+         
+           case 2:
+          clase.clase2();
+     
+          break;
+           case 3:
+          clase.clase3();
+        
+      
+          break;
+           case 4:
+          
+       clase.clase4();
+       
+          break;
+           case 5:
+         clase.clase5();
+       
+      
+          break;
+			case 6:
+				clase.clase6();
+				break;
+      }
+	}
+	}
