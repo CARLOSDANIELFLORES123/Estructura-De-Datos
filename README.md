@@ -16,7 +16,7 @@ Link de repositorio personal
 
 ## HITO 1
 
-
+https://github.com/CARLOSDANIELFLORES123/Estructura-De-Datos/tree/main/HITO_1
 
 ## HITO 2
 
@@ -30,7 +30,7 @@ Link de repositorio personal
 ## HITO 4
 
 
-## HITO 4
+## HITO 5
 
 
 
