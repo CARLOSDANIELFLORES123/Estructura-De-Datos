@@ -20,7 +20,7 @@ https://github.com/CARLOSDANIELFLORES123/Estructura-De-Datos/tree/main/HITO_1
 
 ## HITO 2
 
-https://github.com/CARLOSDANIELFLORES123/Estructura-De-Datos/tree/main/HITO_2/LABORATORIOS
+https://github.com/CARLOSDANIELFLORES123/Estructura-De-Datos/tree/main/HITO_2/laboratorios
 
 ## HITO 3
 
