@@ -24,7 +24,7 @@ https://github.com/CARLOSDANIELFLORES123/Estructura-De-Datos/tree/main/HITO_2/la
 
 ## HITO 3
 
-
+https://github.com/CARLOSDANIELFLORES123/Estructura-De-Datos/tree/main/HITO_3/LABORATORIOS
 
 
 ## HITO 4
